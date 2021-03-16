@@ -86,6 +86,7 @@
 |中观总义初学（一）|[原文链接](http://mp.weixin.qq.com/s?__biz=MzI1NTI1NDUzMQ==&mid=2247484007&idx=1&sn=5f6c3e94ecd9f53a035ef5a8115d98de&chksm=ea398b0bdd4e021d87f23ddef29048838ab7752209308fa14a8e1fe7eab9b54e8be2ddcf5da6&mpshare=1&scene=23&srcid=1021QDAvoj53A8HfLLoRw37t&sharer_sharetime=1603259588295&sharer_shareid=1e99451dbad4a7d66bf280584d9acd32#rd)|
 |中观总义初学（二）|[原文链接](http://mp.weixin.qq.com/s?__biz=MzI1NTI1NDUzMQ==&mid=2247484080&idx=1&sn=c7dbe7cb7a1c6601c7e2a8c465e867a2&chksm=ea398bdcdd4e02ca922505c1dd45d2587695897ec38eb4cc6e87ddbf1656449ae86f5a5957e5&mpshare=1&scene=23&srcid=10218NYOLIbeAdm6T2tx8upr&sharer_sharetime=1603259607940&sharer_shareid=1e99451dbad4a7d66bf280584d9acd32#rd)|
 |修习止观坐禅法要|[原文链接](https://mp.weixin.qq.com/s?chksm=ea398dd8dd4e04cef2d1852c01092b9a5c7b9f5d9559c9a0203d815a95f09fdb11964885700b&sharer_shareid=1e99451dbad4a7d66bf280584d9acd32&scene=23&mid=2247484596&__biz=MzI1NTI1NDUzMQ==&sn=846550d342d317627d3905da91b24a6c&idx=1&mpshare=1&srcid=1116ud2V0XSsWEJ9cVLVKwZP&sharer_sharetime=1605523001216)
+|问题汇总|./md/question.md
 
 ### 7. 网站群组整理
 |<img width=100/>分类<img width=100/>|链接|
